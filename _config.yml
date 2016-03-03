@@ -1,0 +1,28 @@
+name: Play It Fit
+favicon: null
+layout_spectrum: 0.498291834956035
+typography_spectrum: 0.3545442584436387
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6111531453207135
+  lightness: 0.551794411148876
+  saturation: 0.9985583641100675
+  rhythmicContrast: 0.6655767378397286
+purpose: []
